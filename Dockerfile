@@ -1,4 +1,4 @@
-ARG BASE_IMAGE=registry.access.redhat.com/ubi8/python-37
+ARG BASE_IMAGE=registry.access.redhat.com/ubi8/python-36
 
 FROM $BASE_IMAGE
 
